@@ -1,0 +1,9 @@
+[package]
+name = "g2-grep-project"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+r3bl_rs_utils = "*"
+atty = "*"
+#cargo-valgrind = "2.1.0"
